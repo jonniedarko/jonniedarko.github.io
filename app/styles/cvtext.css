@@ -1,0 +1,13 @@
+body{
+	padding: 25px;
+}
+
+hr{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: 0;
+	border-top: 2px solid black;
+}
+.show-print-only{
+	display: none;
+}
