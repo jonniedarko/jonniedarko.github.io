@@ -1,0 +1,36 @@
+
+	body{
+		padding: 0;
+		margin: -8mm 1mm 1mm 1mm;
+
+	}
+	hr{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: 0;
+	border-top: 2px solid black;
+}
+.first{
+		height:90px;
+
+    margin-bottom: -40px;
+
+	}
+	.row{
+		padding-top: 5px;
+	}
+	.col-md-6{
+		float:left;
+		width:50%;
+	}
+	.col-md-4 {
+		float:left;
+		width:33.3333%;
+	}
+
+.hidden-print{
+	display:none;
+}
+.show-print-only{
+	display: block;
+}
